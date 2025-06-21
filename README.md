@@ -8,7 +8,7 @@ This repository contains three foundational reinforcement learning algorithms im
 
 Each notebook focuses on demonstrating the core principles and implementation of its respective algorithm, with visualizations and comments for educational purposes.
 
-## Authors ✍️
+## Authors 
 
 - **Q-Learning** – Daniel Duhnev  
 - **SARSA** – Yelizaveta Tskhe  
